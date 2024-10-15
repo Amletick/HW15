@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9deb7e1-7c32-4b26-bdb3-ad499107a3d4" name="Changes" comment="planner">
-      <change afterPath="$PROJECT_DIR$/Num4/flags_options.py" afterDir="false" />
+    <list default="true" id="f9deb7e1-7c32-4b26-bdb3-ad499107a3d4" name="Changes" comment="flags_options_with_logs">
+      <change afterPath="$PROJECT_DIR$/Num5/com_line.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.com_line.executor": "Run",
     "Python.day_time_etc.executor": "Run",
     "Python.flags_options.executor": "Run",
     "Python.log_example.executor": "Run",
@@ -89,12 +91,38 @@
       <option name="project" value="LOCAL" />
       <updated>1729004384358</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="flags_options">
+      <option name="closed" value="true" />
+      <created>1729004751530</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729004751530</updated>
+    </task>
+    <task id="LOCAL-00004" summary="flags_options_with_logs">
+      <option name="closed" value="true" />
+      <created>1729005061743</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729005061743</updated>
+    </task>
+    <task id="LOCAL-00005" summary="flags_options_with_logs">
+      <option name="closed" value="true" />
+      <created>1729005069493</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729005069493</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="date_time_etc" />
     <MESSAGE value="planner" />
-    <option name="LAST_COMMIT_MESSAGE" value="planner" />
+    <MESSAGE value="flags_options" />
+    <MESSAGE value="flags_options_with_logs" />
+    <option name="LAST_COMMIT_MESSAGE" value="flags_options_with_logs" />
   </component>
 </project>
