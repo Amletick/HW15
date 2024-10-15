@@ -21,5 +21,5 @@ output = (f"Текущая дата и время: {formatted_datetime}\n"
 print(output)
 
 # Дополнительно в файл:
-with open('current_datetime_info.txt', 'w') as file:
+with open('current_datetime_info.txt', "a") as file:
     file.write(output)
