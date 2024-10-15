@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9deb7e1-7c32-4b26-bdb3-ad499107a3d4" name="Changes" comment="date_time_etc">
-      <change afterPath="$PROJECT_DIR$/Num3/planner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Num2/current_datetime_info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Num2/current_datetime_info.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Num2/day_time_etc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Num2/day_time_etc.py" afterDir="false" />
+    <list default="true" id="f9deb7e1-7c32-4b26-bdb3-ad499107a3d4" name="Changes" comment="planner">
+      <change afterPath="$PROJECT_DIR$/Num4/flags_options.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.day_time_etc.executor": "Run",
+    "Python.flags_options.executor": "Run",
     "Python.log_example.executor": "Run",
     "Python.planner.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -84,11 +81,20 @@
       <option name="project" value="LOCAL" />
       <updated>1729002556711</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="planner">
+      <option name="closed" value="true" />
+      <created>1729004384358</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729004384358</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="date_time_etc" />
-    <option name="LAST_COMMIT_MESSAGE" value="date_time_etc" />
+    <MESSAGE value="planner" />
+    <option name="LAST_COMMIT_MESSAGE" value="planner" />
   </component>
 </project>

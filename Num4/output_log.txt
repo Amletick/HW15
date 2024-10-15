@@ -1,0 +1,2 @@
+Verbose Mode: Processing number 56 and string 'Hello'
+Hello
