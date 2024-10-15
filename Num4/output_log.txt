@@ -1,2 +1,20 @@
+Command executed: number=56, text='Hello', verbose=True, repeat=3
 Verbose Mode: Processing number 56 and string 'Hello'
+Hello
+Hello
+Hello
+Command executed: number=32, text='Hello', verbose=True, repeat=3
+Verbose Mode: Processing number 32 and string 'Hello'
+Hello
+Hello
+Hello
+Command executed: number=32, text='Hello', verbose=True, repeat=3
+Verbose Mode: Processing number 32 and string 'Hello'
+Hello
+Hello
+Hello
+Command executed: number=32, text='Hello', verbose=True, repeat=3
+Verbose Mode: Processing number 32 and string 'Hello'
+Hello
+Hello
 Hello
